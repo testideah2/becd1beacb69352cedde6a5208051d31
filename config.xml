@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "group.webproject.lk"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Личный кабинет WPG</name>
+    <name>Личный кабинет WPG</name>
 
     <description>
         Личный кабинет Webproject.Group
